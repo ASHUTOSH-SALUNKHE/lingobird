@@ -172,6 +172,7 @@ export default function Footer() {
                 { href: '/contact', label: '💬 Get in Touch' },
                 { href: '/how-to-use#faq', label: '❓ FAQ' },
                 { href: '/download', label: '⬇️ Download Extension' },
+                { href: '/privacy', label: '🔒 Privacy Policy' },
                 { href: 'https://aistudio.google.com/apikey', label: '🔑 Gemini API Key', external: true },
               ].map(link => (
                 <li key={link.href}>
