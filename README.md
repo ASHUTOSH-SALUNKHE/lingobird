@@ -75,3 +75,4 @@ Connect this GitHub repository directly to Vercel or Netlify for zero-configurat
 - **Microsoft Store**: [Get LingoBird for Windows](https://apps.microsoft.com/detail/9P7N7S9N222J?hl=en-us&gl=IN&ocid=pdpshare)
 - **YouTube**: [@lingobird_app](https://www.youtube.com/@lingobird_app)
 - **Developer**: Ashutosh Salunkhe (`ashutoshsalunkhe2010@gmail.com`)
+
