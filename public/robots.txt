@@ -1,0 +1,15 @@
+User-Agent: *
+Allow: /
+Disallow: /api/
+
+User-Agent: Googlebot
+Allow: /
+
+User-Agent: Bingbot
+Allow: /
+
+User-Agent: Applebot
+Allow: /
+
+Host: https://lingobird.app
+Sitemap: https://lingobird.app/sitemap.xml

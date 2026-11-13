@@ -1,0 +1,17 @@
+{
+  "name": "LingoBird — Best AI Language Learning & Practicing Application for Windows",
+  "short_name": "LingoBird",
+  "description": "Practice speaking, listening, reading, writing, and vocabulary with LingoBird — the complete local-first language learning application for Windows. Features real-time AI voice tutor, 20 offline Piper neural voices, local Whisper speech recognition, Anki-grade FSRS spaced repetition flashcards, and 9 mini games.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#faf8f2",
+  "theme_color": "#2774ad",
+  "icons": [
+    {
+      "src": "/lingobird-logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
